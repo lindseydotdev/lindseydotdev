@@ -22,10 +22,10 @@ If you'd like to reach me or see what I'm working on my socials are linked below
 <a target="_blank" href="https://www.linkedin.com/in/lindsey-dinkel">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="80px" title="LinkedIn"/>
 </a>
-<a target="_blank" href="https://twitter.com/lindseyintech">
+<a target="_blank" href="https://twitter.com/dotdev">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="80px" title="Twitter"/>
 </a>
-<a href="mailto:lindseyintech@gmail.com?subject=Hello%20Lindsey,%20From%20Github">
+<a href="mailto:lindseydotdev@gmail.com?subject=Hello%20Lindsey,%20From%20Github">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="80px" title="Gmail" />
 </a>
 
@@ -43,7 +43,7 @@ Additional Tools: Mocha, Chai, Jasmine, Karma, Webpack, Browserify, Git, GitHub,
 </p>
 <hr>
  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=lindseyInTech" alt="https://github.com/lindseyintech" />
+  <img src="https://komarev.com/ghpvc/?username=lindseydotdev" alt="https://github.com/lindseydotdev" />
 </p>
 
 <hr>
