@@ -25,7 +25,7 @@ If you'd like to reach me or see what I'm working on my socials are linked below
 <a target="_blank" href="https://twitter.com/lindseyindev">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="80px" title="Twitter"/>
 </a>
-<a href="mailto:lindseydotdev@gmail.com?subject=Hello%20Lindsey,%20From%20Github">
+<a href="mailto:lindseyindev@gmail.com?subject=Hello%20Lindsey,%20From%20Github">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="80px" title="Gmail" />
 </a>
 
