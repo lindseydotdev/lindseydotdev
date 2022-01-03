@@ -36,7 +36,7 @@ If you'd like to reach me or see what I'm working on my socials are linked below
  <hr>
 
 <h2 align="center"> 💥 My Growing Stack</h2>
-Front End: JavaScript Es6, React, jQuery, HTML 5, CSS 3, Bootstrap 5.
+Front End: JavaScript Es6, React, jQuery, HTML 5, CSS 3, Bootstrap 5, Tailwind.
 <br>
 Back End: Node.js, MongoDB, PostgreSQL, Express.
 <br>
