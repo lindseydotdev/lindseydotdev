@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://gyazo.com/95cf532acd482cc04a916d4a323a7c4f.png" alt="banner" width="700px"/>
+  <img src="https://gyazo.com/520046c84eb2284d7c0bf61747e44553.png" alt="banner" width="700px"/>
 </div>
 <br>
 <p align="center">🔎 Now searching for my next opportunity...</p>
