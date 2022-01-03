@@ -19,6 +19,10 @@ If you'd like to reach me or see what I'm working on my socials are linked below
  <hr>
 <h2  align="center">📫 Reach Me </h2>
 <p align="center">
+   <a href="https://lindseyin.dev/">
+  <img src="https://gyazo.com/25046b9bd3c7f9fb33795a2cf95b3a00.gif" width="80px" title="lindseyin.dev" />
+</a>
+
 <a target="_blank" href="https://www.linkedin.com/in/lindsey-dinkel">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="80px" title="LinkedIn"/>
 </a>
@@ -28,7 +32,7 @@ If you'd like to reach me or see what I'm working on my socials are linked below
 <a href="mailto:lindseyindev@gmail.com?subject=Hello%20Lindsey,%20From%20Github">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="80px" title="Gmail" />
 </a>
-
+ 
  <hr>
 
 <h2 align="center"> 💥 My Growing Stack</h2>
