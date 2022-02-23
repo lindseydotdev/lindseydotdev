@@ -5,7 +5,6 @@
   <img src="https://user-images.githubusercontent.com/89806097/150457990-675c2b29-702a-4040-be8f-a17bd01d1752.png" alt="banner" width="700px"/>
 </div>
 <br>
-<p align="center">🔎 Now searching for my next opportunity...</p>
 
 
 <h2 align="center"> 😼 About Me </h2>
