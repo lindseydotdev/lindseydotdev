@@ -19,7 +19,7 @@ If you'd like to reach me or see what I'm working on my socials are linked below
 <h2  align="center">📫 Reach Me </h2>
 <p align="center">
    <a href="https://lindseyin.dev/">
-  <img src="https://gyazo.com/25046b9bd3c7f9fb33795a2cf95b3a00.gif" width="80px" title="lindseyin.dev" />
+<img src="https://user-images.githubusercontent.com/89806097/171963336-2047da9b-9e7a-49e2-928d-df6119173043.svg" width="80px" title="lindseyin.dev" />
 </a>
 
 <a target="_blank" href="https://www.linkedin.com/in/lindsey-dinkel">
